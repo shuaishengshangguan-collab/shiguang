@@ -4,7 +4,9 @@
 
 一个面向年轻人的**约拍撮合 App** 产品设计作品，覆盖从竞品分析、用户画像、需求文档、业务流程，到高保真可交互原型、启发式评估与问题修复的完整链路。
 
-🔗 **在线体验**：打开 `index.html`，左侧手机框内即为可点击原型；也可直接打开 `prototype.html` 全屏体验。
+🔗 **在线体验**：<https://shuaishengshangguan-collab.github.io/shiguang/> —— 落地页左侧手机框内即为可点击原型，也可直接全屏打开 <https://shuaishengshangguan-collab.github.io/shiguang/prototype.html>。
+
+> 说明：在仓库文件页点击 `prototype.html` 看到的会是源码，GitHub 不对仓库内的 HTML 做渲染。查看运行效果请使用上方 Pages 地址。
 
 ---
 
